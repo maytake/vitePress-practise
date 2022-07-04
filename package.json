@@ -1,0 +1,25 @@
+{
+  "name": "my-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "d-dev": "vitepress dev docs",
+    "d-build": "vitepress build docs",
+    "d-serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.6",
+    "element-plus": "^2.2.8",
+    "imooc-element-components": "^1.0.1",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9",
+    "vitepress": "^0.22.4",
+    "vitepress-theme-demoblock": "^1.4.2"
+  }
+}
