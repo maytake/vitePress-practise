@@ -6,4 +6,4 @@
   
   ### 快速开始
   ``` bash 
-  npm run d-dev
+  npm run docs:dev
